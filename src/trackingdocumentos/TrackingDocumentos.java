@@ -15,6 +15,10 @@ public class TrackingDocumentos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         //trolololo
+=======
+        // um pequeno comentátio para diferenciar
+>>>>>>> 6be714243fc625bc6aced90f76157e02012f5d9a
     }
 }
